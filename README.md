@@ -5,11 +5,11 @@
 
 Project Akhir Mata Kuliah Pengembangan Aplikasi Mobile 2026
 
+	
+|Nama	[Faiz Aditya]|
+|NIM	[20240140065]|
+|Kelas	[C]|
 
-
-**Nama**: Faiz Aditya
-**NIM**: 20240140065
-**Kelas**: C
 
 
 ---
